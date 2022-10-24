@@ -1,0 +1,48 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.primaPagina{
+    background-image: url(./img/Rectangle\ 1.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+}
+
+.login-card{
+    height: 60%;
+    width: 30%;
+    border-radius: 25px;
+    background-color: white;
+    display: inline-block;
+    margin-top: 10%;
+    margin-left: 35%;
+    box-shadow: 5px 5px 10px 2px #00000071;
+    -webkit-box-shadow: 5px 5px 10px 2px #00000071;
+    -moz-box-shadow: 5px 5px 10px 2px #00000071;
+}  
+
+.bottone{
+    display: block;
+    margin: auto;
+    margin-top: 15%;
+}
+
+.dimenticata{
+    color: dodgerblue;
+    text-align: center;
+    font-size: normal;
+    cursor: pointer;
+}
+
+.dimenticata:hover{
+    color: rgb(17, 114, 211);
+}
