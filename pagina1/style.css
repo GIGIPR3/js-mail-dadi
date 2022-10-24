@@ -9,7 +9,7 @@ html{
 }
 
 .primaPagina{
-    background-image: url(./img/Rectangle\ 1.jpg);
+    background-image: url(../img/Rectangle\ 1.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -33,7 +33,7 @@ html{
 .bottone{
     display: block;
     margin: auto;
-    margin-top: 15%;
+    margin-top: 10%;
 }
 
 .dimenticata{

@@ -1,0 +1,16 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.titolo{
+    color: dodgerblue;
+}
+
+.boxResults{
+    width: 200px;
+    height: 200px;
+    border: 2px solid black;
+    border-radius: 20px;
+}
